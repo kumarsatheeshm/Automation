@@ -1,4 +1,9 @@
 
 
 
-Sets
+Sets 
+
+set is an unordered collection of well-defined and distinct objects where:
+
+Collection means a group of items considered together
+Collectino is un-orderd 
