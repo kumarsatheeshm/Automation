@@ -1,5 +1,12 @@
 1. ##########Commenting lines in coding language##########
     ####Single Line commenting
     ##### Multie line Commenting
+2. Input and output 
+3.Variable and Data types
+● Integers
+● Floats
+● Strings
+● Booleans
+● NoneType
 
 Use of following characters (),[],{}
